@@ -1,0 +1,15 @@
+{
+  "books": [
+    {
+      "name": "Vue for beginners",
+      "author": "paul",
+      "id": 2
+    },
+    {
+      "name": "wefw",
+      "author": "wefwfe",
+      "id": 3
+    }
+  ],
+  "users": []
+}
